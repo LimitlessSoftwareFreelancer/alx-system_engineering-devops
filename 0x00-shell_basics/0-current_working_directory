@@ -1,2 +1,2 @@
 #!/bin/bash
-readlink -n 0-current_working_directory
+pwd 0-current_working_directory
